@@ -1,0 +1,6 @@
+@api_crud_rest_dm113_HostAddress = http://localhost:5207
+
+GET {{api_crud_rest_dm113_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

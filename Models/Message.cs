@@ -1,0 +1,1 @@
+public record Message(Guid? id, string? title, string? text, DateTime? createdAt, DateTime? updatedAt);
